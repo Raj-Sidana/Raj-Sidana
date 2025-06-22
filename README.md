@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/raj-sidana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-sidana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ft_rajsidana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ft_rajsidana" height="30" width="40" /></a>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Raj-Sidana)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
